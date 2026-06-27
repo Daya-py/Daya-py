@@ -1,43 +1,25 @@
 <div align="center">
 
-# Moses Uadia
+<h1>Moses Uadia</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=1800&pause=400&color=3B82F6&center=true&vCenter=true&repeat=true&width=650&lines=Petroleum+Engineer;Machine+Learning+Engineer;Data+Scientist;Open+Source+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=1400&pause=200&color=3B82F6&center=true&vCenter=true&repeat=true&width=650&lines=Petroleum+Engineer;Machine+Learning+Engineer;Data+Scientist;Building+Open+Source" alt="Typing Animation" />
+
+<samp>Building intelligent solutions for engineering with Machine Learning & Data Science.</samp>
+
+<br>
 
 <p>
-  <code>&gt; Building intelligent solutions for engineering with Machine Learning &amp; Data Science.</code>
+  <a href="#about">About</a> •
+  <a href="#technologies-i-work-with">Tech Stack</a> •
+  <a href="#featured-repositories">Repositories</a> •
+  <a href="#github-analytics">Analytics</a> •
+  <a href="#connect">Contact</a>
 </p>
 
-<br>
-
-<div align="center">
 </div>
-<table>
-<tr>
-<td valign="top" width="50%">
 
-## 👨‍💻 About Me
+---
 
-* 🎓 Petroleum Engineering Graduate
-* 🤖 Passionate about AI for Engineering
-* 📊 Building Machine Learning & Data Science projects
-* 🌱 Always learning and improving
-* 💡 Open to collaboration and innovation
+<h2 id="about">About</h2>
 
-</td>
-
-<td valign="top" width="50%">
-
-## 🚀 Current Focus
-
-* 🔭 Engineering-focused ML projects
-* 📈 Data analysis & visualization
-* ⚙️ Software engineering best practices
-* 🌍 Open Source contributions
-* 🧠 Expanding my AI toolkit
-
-</td>
-</tr>
-</table>
-
-<br>
+Petroleum Engineering graduate passionate about applying Machine Learning and Data Science to solve engineering and research challenges. I enjoy building practical tools, exploring open-source technologies, and developing intelligent systems that bridge engineering with AI.
