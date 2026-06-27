@@ -31,7 +31,6 @@ I am a Petroleum Engineer focused on applying data analytics and machine learnin
 </p>
 
 ---
----
 
 <h2 id="technologies-i-work-with" align="center">Technologies I Work With</h2>
 
