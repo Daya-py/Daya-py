@@ -6,7 +6,13 @@
 
 <samp>Building intelligent solutions for engineering with Machine Learning & Data Science.</samp>
 
-<br>
+<br><br>
+
+<img src="./assets/engineer.gif" width="140" alt="Engineer Animation" />
+
+<br><br>
+
+
 <p align="center">
   <a href="#about">
     <img src="https://img.shields.io/badge/About-2563EB?style=flat-square&logo=readme&logoColor=white" alt="About"/>
