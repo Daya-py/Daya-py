@@ -37,12 +37,12 @@
 
 <h2 id="about">About</h2>
 
-I am a Petroleum Engineer focused on applying data analytics and machine learning to analyse, predict, and optimise oil and gas well performance. My interests lie in intelligent well engineering, where data-driven methods improve production forecasting, diagnose well behaviour, and support engineering decision-making.
+<samp>I am a Petroleum Engineer focused on applying data analytics and machine learning to analyse, predict, and optimise oil and gas well performance. My interests lie in intelligent well engineering, where data-driven methods improve production forecasting, diagnose well behaviour, and support engineering decision-making.<samp>
 
 <h3>Research Interests</h3>
 
 <p>
-  Intelligent Well Engineering • Production Forecasting • Reservoir Analytics • Machine Learning • Data Science • Scientific Computing
+  <samp>Intelligent Well Engineering • Production Forecasting • Reservoir Analytics • Machine Learning • Data Science • Scientific Computing<samp>
 </p>
 
 ---
@@ -82,20 +82,35 @@ I am a Petroleum Engineer focused on applying data analytics and machine learnin
 ---
 
 <h2 id="selected-work">Selected Work</h2>
+<p align="center">
+<table>
+<tr>
+<td width="50%">
 
 ### 🌍 Africa Geothermal Datathon 2026
 
 Machine learning and data-driven analysis for geothermal resource assessment, energy planning, and engineering decision-making.
 
+**Tech:** Python • Machine Learning • Data Science
+
 <a href="https://github.com/Daya-py/africa-geothermal-datathon-2026">View Repository →</a>
 
-<br>
+</td>
+
+<td width="50%">
 
 ### 📚 Academic Research OS
 
 An open-source framework for structuring, managing, and streamlining academic research, from proposal development to thesis writing.
 
+**Tech:** Python • Research • Automation
+
 <a href="https://github.com/Daya-py/Academic-Research-OS">View Repository →</a>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
