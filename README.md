@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Moses Uadia 👋
 
-<!--
-**Daya-py/Daya-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Petroleum Engineer • Machine Learning • Data Science**
 
-Here are some ideas to get you started:
+I'm passionate about applying machine learning and data science to solve engineering problems. This GitHub is where I build projects, document my learning, and share my work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+* 🎓 Petroleum Engineering graduate.
+* 🤖 Applying Machine Learning and Data Science to engineering problems.
+* 🛠️ Building projects with Python and open-source tools.
+* 📚 Currently deepening my knowledge of AI, data science, and software engineering.
+* 🌍 Interested in Energy, AI, Scientific Computing, and Open Source.
+
+---
+
+## 🚀 Current Focus
+
+* Building Machine Learning projects for engineering applications.
+* Strengthening my Data Science and MLOps skills.
+* Contributing to open-source projects.
+* Sharing my learning journey through GitHub.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,github,vscode,figma,photoshop,aws,azure,gcp" />
+</p>
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,jupyter,framer" />
+</p>
+
+
