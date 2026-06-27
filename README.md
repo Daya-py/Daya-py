@@ -2,13 +2,13 @@
 
 <h1>Moses Uadia</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=1400&pause=200&color=3B82F6&center=true&vCenter=true&repeat=true&width=650&lines=Petroleum+Engineer;Machine+Learning+Engineer;Data+Scientist;AI+for+Engineering" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&duration=1400&pause=200&color=3B82F6&center=true&vCenter=true&repeat=true&width=650&lines=Petroleum+Engineer;Machine+Learning+Engineer;Data+Scientist;AI+for+Engineering" alt="Typing Animation" />
 
 <samp>Building intelligent solutions for engineering with Machine Learning & Data Science.</samp>
 
 <br><br>
 
-<img src="./assets/engineer.gif" width="140" alt="Engineer Animation" />
+<img src="./assets/cat.gif" width="140" alt="Engineer Animation" />
 
 <br><br>
 
