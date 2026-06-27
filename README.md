@@ -31,36 +31,37 @@ I am a Petroleum Engineer focused on applying data analytics and machine learnin
 </p>
 
 ---
-<div align="center">
+---
 
-<h2 id="technologies-i-work-with">Technologies I Work With</h2>
+<h2 id="technologies-i-work-with" align="center">Technologies I Work With</h2>
 
-<h3>Programming</h3>
-<p>
+<p align="center"><strong>Programming</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-<h3>Machine Learning</h3>
-<p>
+<p align="center"><strong>Machine Learning</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
 
-<h3>Data Science</h3>
-<p>
+<p align="center"><strong>Data Science</strong></p>
+<p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,jupyter" />
 </p>
 
-<h3>Cloud</h3>
-<p>
+<p align="center"><strong>Cloud</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
 </p>
 
-<h3>Development</h3>
-<p>
+<p align="center"><strong>Development</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-<h3>Design</h3>
-<p>
+<p align="center"><strong>Design</strong></p>
+<p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,framer,photoshop" />
 </p>
+
