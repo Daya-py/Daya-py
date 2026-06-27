@@ -7,13 +7,22 @@
 <samp>Building intelligent solutions for engineering with Machine Learning & Data Science.</samp>
 
 <br>
-
-<p>
-  <a href="#about">About</a> •
-  <a href="#technologies-i-work-with">Tech Stack</a> •
-  <a href="#selected-work">Selected Work</a> •
-  <a href="#github-analytics">Analytics</a> •
-  <a href="#connect">Contact</a>
+<p align="center">
+  <a href="#about">
+    <img src="https://img.shields.io/badge/About-2563EB?style=flat-square&logo=readme&logoColor=white" alt="About"/>
+  </a>
+  <a href="#technologies-i-work-with">
+    <img src="https://img.shields.io/badge/Tech%20Stack-7C3AED?style=flat-square&logo=python&logoColor=white" alt="Tech Stack"/>
+  </a>
+  <a href="#selected-work">
+    <img src="https://img.shields.io/badge/Selected%20Work-059669?style=flat-square&logo=github&logoColor=white" alt="Selected Work"/>
+  </a>
+  <a href="#github-analytics">
+    <img src="https://img.shields.io/badge/Analytics-D97706?style=flat-square&logo=githubactions&logoColor=white" alt="Analytics"/>
+  </a>
+  <a href="#connect">
+    <img src="https://img.shields.io/badge/Connect-0891B2?style=flat-square&logo=gmail&logoColor=white" alt="Connect"/>
+  </a>
 </p>
 
 </div>
@@ -64,3 +73,50 @@ I am a Petroleum Engineer focused on applying data analytics and machine learnin
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,framer,photoshop" />
 </p>
 
+---
+
+<h2 id="selected-work">Selected Work</h2>
+
+### 🌍 Africa Geothermal Datathon 2026
+
+Machine learning and data-driven analysis for geothermal resource assessment, energy planning, and engineering decision-making.
+
+<a href="https://github.com/Daya-py/africa-geothermal-datathon-2026">View Repository →</a>
+
+<br>
+
+### 📚 Academic Research OS
+
+An open-source framework for structuring, managing, and streamlining academic research, from proposal development to thesis writing.
+
+<a href="https://github.com/Daya-py/Academic-Research-OS">View Repository →</a>
+
+---
+
+<h2 id="github-analytics">GitHub Analytics</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Daya-py&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Daya-py&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+<h2 id="connect" align="center">Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mosesuadia">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mosesuadia@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Daya-py">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+</p>
