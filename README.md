@@ -8,7 +8,7 @@
 
 
 
-<img src="./assets/Ralph.gif" width="140" alt="Engineer Animation" />
+<img src="./assets/Ralph.gif" width="120" alt="Engineer Animation" />
 
 <br>
 
