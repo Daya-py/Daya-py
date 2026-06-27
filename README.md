@@ -6,11 +6,11 @@
 
 <samp>Building intelligent solutions for engineering with Machine Learning & Data Science.</samp>
 
-<br><br>
 
-<img src="./assets/cat.gif" width="140" alt="Engineer Animation" />
 
-<br><br>
+<img src="./assets/Ralph.gif" width="140" alt="Engineer Animation" />
+
+<br>
 
 
 <p align="center">
